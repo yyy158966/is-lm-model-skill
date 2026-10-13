@@ -1,2 +1,19 @@
-# is-lm-model-skill
-Macroeconomics skill for explaining IS-LM model, curve shift factors and policy effect analysis
+# IS-LM模型助手（IS-LM Model Skill）
+
+## 项目简介
+这是一个《宏观经济学》课程的专属 Skill。
+专门讲解IS-LM模型，解释IS曲线、LM曲线的推导，分析曲线移动影响因素，解读财政政策、货币政策的调控效果，输出考试简答背诵要点。
+
+## 核心知识点
+✅ IS曲线：产品市场均衡
+公式：$Y = C(Y-T)+I(r)+G$，曲线向右下方倾斜，代表总产出与利率负相关
+
+✅ LM曲线：货币市场均衡
+公式：$M/P = L(r,Y)$，曲线向右上方倾斜，代表利率与总产出正相关
+
+✅ 模型均衡：IS与LM交点，产品市场+货币市场同时达到均衡
+
+## 使用方法
+调用Agent，直接提问IS-LM相关问题，助手按照固定框架输出考点解析，用于期末复习、简答背诵。
+
+
